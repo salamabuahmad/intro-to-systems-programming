@@ -1,0 +1,28 @@
+# C / C++
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+main
+mtmchkin
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Course assignment PDFs
+*.pdf
