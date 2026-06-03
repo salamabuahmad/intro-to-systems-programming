@@ -1,6 +1,6 @@
 # Intro to Systems Programming Coursework
 
-This repository contains selected coursework projects from an Intro to Systems Programming course.
+This repository contains selected coursework projects from an Intro to Systems Programming course (equivalent to OOP course).
 
 The projects focus on C, C++, object-oriented programming, data structures, memory management, templates, exceptions, file I/O, and Python scripting.
 
