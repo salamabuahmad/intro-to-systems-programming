@@ -6,7 +6,7 @@ The projects focus on C, C++, object-oriented programming, data structures, memo
 
 ## Projects
 
-### EX01 - Israeli Queue Data Structure
+### EX01 - Special Queue Data Structure
 A generic C queue implementation where insertion order is affected by friendship and rivalry rules.
 
 ### EX02 - Basic Mtmchkin Game
